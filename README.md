@@ -10,8 +10,9 @@
 [![MCP](badges/ai-mcp.svg)](https://github.com/EyderA10)
 [![TypeScript](badges/languages-typescript.svg)](https://github.com/EyderA10)
 [![Go](badges/languages-go.svg)](https://github.com/EyderA10)
-[![Python](badges/languages-python.svg)](https://github.com/EyderA10)
-[![Laravel](badges/frameworks-laravel.svg)](https://github.com/EyderA10)
+[![PHP](badges/languages-php.svg)](https://github.com/EyderA10)
+[![Node.js](badges/frameworks-nodejs.svg)](https://github.com/EyderA10)
+[![Next.js](badges/frameworks-nextjs.svg)](https://github.com/EyderA10)
 
 [![GitHub followers](badges/social-github-follow.svg)](https://github.com/EyderA10?tab=followers)
 [![LinkedIn](badges/social-linkedin.svg)](https://www.linkedin.com/in/eyder-garcia/)
@@ -81,16 +82,10 @@ The engineering that makes it work:
 - **White-label widget** served per tenant, with `frame-ancestors` locked to the client's allowed origins
 - **Webhook tool execution** with per-tenant bearer auth
 
-[![View repo](badges/action-view-repo.svg)](https://github.com/EyderA10/factoria-agent-core)
-[![Live demo](badges/action-live-demo.svg)](https://factoria-agent-platform-poc.vercel.app)
-
 ### ✅ Mini Content Approval Engine — Human-in-the-loop content pipeline
 **TypeScript · Next.js · Vercel**
 
 A content review workflow built around human approval gates. It exists because generated content at volume needs an approval layer that is fast for reviewers and auditable for compliance — the boring part that decides whether an AI feature is actually shippable in a real business.
-
-[![View repo](badges/action-view-repo.svg)](https://github.com/EyderA10/mini-content-approval-engine)
-[![Live demo](badges/action-live-demo.svg)](https://project-ds1ao.vercel.app)
 
 ### ⚙️ CI/CD & automation practice
 **Python · GitHub Actions · Docker · Fly.io · Vercel**
@@ -99,19 +94,6 @@ A content review workflow built around human approval gates. It exists because g
 
 [![my-python-ci-app](badges/project-my-python-ci-app.svg)](https://github.com/EyderA10/my-python-ci-app)
 [![my-first-ci-cd](badges/project-my-first-ci-cd.svg)](https://github.com/EyderA10/my-first-ci-cd)
-
----
-
-## 💼 Experience
-
-**Senior Full-Stack Software Engineer** · **Cynergy** — Dallas, Texas
-*Mar 2024 – Jul 2025*
-
-- Designed and scaled a **high-performance SaaS web application**, owning the client-side lifecycle end to end and delivering a solid, fluid user experience
-- Built **scalable backend systems and REST APIs** with Node.js, Express.js, Knex.js and Oracle, optimizing query performance and data consistency
-- Shipped modern front ends with **Next.js, TypeScript, React Query and Shadcn**, managing state cleanly through reusable UI components
-- Implemented **comprehensive test suites** — unit, integration and end-to-end — guaranteeing reliability and zero-downtime implementations
-- Integrated **AI agent development with Spec-Driven Development** into the delivery workflow
 
 ---
 
