@@ -2,7 +2,7 @@
 
 # Hey, I'm Eyder 👋
 
-**Senior AI Agent Engineer — I design, build, and ship production AI agent systems and the full-stack platforms behind them.**
+**Senior Full Stack Engineer — I design, build, and ship production AI agent systems and the full-stack platforms behind them.**
 
 [![AI Agents](badges/ai-ai-agents.svg)](https://github.com/EyderA10)
 [![LLM Orchestration](badges/ai-llm-orchestration.svg)](https://github.com/EyderA10)
